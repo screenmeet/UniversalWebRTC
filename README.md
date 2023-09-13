@@ -17,7 +17,7 @@ pod 'UniversalWebRTC'
 Add the project as a dependency to your Package.swift:
 ```swift
 dependencies: [
-    .package(url: "https://github.com/Rostyk/UniversalWebRTC", .upToNextMinor(from: "106.0.7"))
+    .package(url: "https://github.com/screenmeet/UniversalWebRTC", .upToNextMinor(from: "106.0.7"))
 ]
 ```
 
